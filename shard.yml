@@ -1,0 +1,9 @@
+name: dotenvs
+version: 0.1.0
+license: MIT
+authors:
+  - Bartłomiej Wójtowicz <wojtowicz.bartlomiej@gmail.com>
+
+dependencies:
+  dotenv:
+    github: gdotdesign/cr-dotenv
